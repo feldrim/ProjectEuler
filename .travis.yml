@@ -1,2 +1,3 @@
+install: true
 language: c
 ./configure && make && make test
